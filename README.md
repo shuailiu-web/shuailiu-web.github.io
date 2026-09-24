@@ -1,12 +1,11 @@
 # Personal website
 
-A responsive, static personal website designed for GitHub Pages. The site uses plain HTML, CSS, and JavaScript, so it needs no build step or dependencies.
+A simple academic-style personal homepage designed for GitHub Pages. The site uses plain HTML and CSS, so it needs no build step or dependencies.
 
 ## Make it yours
 
-1. Edit `index.html`: replace `Your Name`, `YN`, the intro, contact email, profile links, project cards, and experience entries.
-2. In `style.css`, update the accent colors in `:root` if you want a different palette.
-3. Add a portrait under a filename such as `assets/profile.jpg`, then replace the `.portrait-card` placeholder in `index.html` with an image element.
+1. Edit `index.html`: replace bracketed placeholder details with your bio, affiliation, education, news, publications, projects, awards, and contact links.
+2. Add a portrait under a filename such as `assets/profile.jpg`, then replace the `.profile-photo` placeholder in `index.html` with an image element.
 4. Preview by opening `index.html` in a browser. GitHub Pages serves this static site directly.
 
 ## Publish with GitHub Pages
