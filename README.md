@@ -1,11 +1,11 @@
 # Personal website
 
-A simple academic-style personal homepage designed for GitHub Pages. The site uses plain HTML and CSS, so it needs no build step or dependencies.
+A faculty-style personal homepage for Shuai Liu, prepared for GitHub Pages. The site uses plain HTML and CSS, so it needs no build step or dependencies.
 
 ## Make it yours
 
-1. Edit `index.html`: replace bracketed placeholder details with your bio, affiliation, education, news, publications, projects, awards, and contact links.
-2. Add a portrait under a filename such as `assets/profile.jpg`, then replace the `.profile-photo` placeholder in `index.html` with an image element.
+1. Edit `index.html` to correct or expand the bio, research interests, education, news, publications, and links.
+2. Replace `profile.jpg` if you want to use a different headshot.
 4. Preview by opening `index.html` in a browser. GitHub Pages serves this static site directly.
 
 ## Publish with GitHub Pages
